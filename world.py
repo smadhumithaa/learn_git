@@ -9,4 +9,5 @@ if thirsty == 'yes':
     print("Drink water bro!")
 else:
     print("Bye")
+    print("Nothing more you can leave!")
 
